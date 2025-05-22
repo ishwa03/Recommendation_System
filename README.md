@@ -36,8 +36,13 @@ cd Recommendation_System
    python -m venv venv
 source venv/bin/activate  # For Windows: venv\Scripts\activate
 
-3. Install the dependencies:
+
+
+4. Install the dependencies:
     pip install -r requirements.txt
+
+
+   
 4.Run the Flask app:
     python app.py
    
